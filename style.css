@@ -1,0 +1,145 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.margin{
+    margin-bottom: 70px;
+}
+.flex-section
+{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+
+}
+.text-color{
+    color: #FFAD5A;
+}
+.background{
+    padding-left: 3%;
+    border-radius: 5px;
+    border-left: 5px solid tomato;
+}
+h1{
+    font-family: 'Yeseva One', cursive;
+    font-size: 50px;
+}
+p{
+    font-size: 16px;
+}
+.half-section{
+    width: 50%;
+    padding-left: 7%;
+    
+}
+.half-section img{
+    
+    background-repeat: no-repeat;
+   background-position: center;
+    width: 70%;
+}
+.half-section p{
+    margin: 40px 0;
+    margin: 40px 0;
+}
+.small-btn{
+    
+    text-decoration: none;
+    font-size: 16px;
+    background-color: tomato;
+    padding: 15px 30px;
+    border-radius: 4px;
+    color: white;
+    font-weight: 700;
+}
+.single-mission{
+    width: 33%;
+    
+    margin: 2%;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+.single-mission h4{
+    font-size: 25px;
+}
+.single-mission img{
+    width: 40%;
+    
+}
+#mission{
+    background: #edf5f6;
+}
+
+#visson{
+    background: #ffeeee;
+}
+
+#goal{
+    background: #fff4d6;
+}
+.second-section h1 , .contact-section h1{
+    text-align: center;
+    font-style: bold;
+    font-size: 40px
+}
+.developer-section{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 22%;
+
+}
+.global-section{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 22%;
+}
+
+
+  .contact-section input,
+  .contact-section textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+  }
+  .contact-section textarea {
+    height: 110px;
+  }
+  .contact-section input[type="submit"] {
+    background-color: tomato;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+.contact-address h4 {
+    text-transform: capitalize;
+    font-size: 22px;
+  }
+  .contact-address h4 span {
+    display: block;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  
+footer{
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px 40px;
+    
+}
+
+  footer h2{
+    font-size: 40px;
+    font-weight: 700;
+  }
+  footer h2 span{
+      color: red;
+  }
+  
+  
