@@ -6,8 +6,7 @@ body{
 .margin{
     margin-bottom: 70px;
 }
-.flex-section
-{
+.flex-section{
     display: flex;
     width: 80%;
     margin: 0 auto;
@@ -142,6 +141,6 @@ footer{
 
 footer h2 span{
       color: red;
-  }
+}
   
   
